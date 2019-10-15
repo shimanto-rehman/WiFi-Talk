@@ -10,7 +10,7 @@ This repository contains 2 main projects:
 ## Getting Started
 
 It is really easy to get started:
-1. Run the WebSocket -> [Guide]()
+1. Run the WebSocket -> [Guide](https://github.com/shimanto-rehman/websocket-server/blob/master/README.md)
 2. Build the flutter project -> `flutter build apk --release` and `flutter install`
 
 ## Why
